@@ -99,7 +99,7 @@ Body → JSON:
 
  json
 {
-  "curso": "Desenvolvimento de sistema"
+  "curso": "Ciências da Computação"
 }
 
 ###  5. Deletar aluno (DELETE)
@@ -118,7 +118,7 @@ Os dados são armazenados no arquivo `alunos.json` no seguinte formato:
         "matricula": 1,
         "nome": "Adriel",
         "idade": 22,
-        "curso": "ADS"
+        "curso": "TADS"
     }
 
 

@@ -4,5 +4,11 @@
         "nome": "Adriel Carvalho Leite",
         "curso": "TADS",
         "idade": "30"
+    },
+    {
+        "matricula": 2,
+        "nome": "Emanuella Dos Santos",
+        "curso": "Ber\u00e7ario",
+        "idade": "2"
     }
 ]
