@@ -21,8 +21,8 @@ Atender aos requisitos da atividade prática da disciplina Programação para We
 
 ## Estrutura do projeto
 
-apy-alunos/
-app.py → Arquivo principal da API
+api-alunos/
+alunos_crud.py → Arquivo principal da API
 alunos.json → Base de dados (JSON)
 README.md → Documentação
 models/
@@ -43,7 +43,7 @@ pip install flask
 ### 2. Executar o projeto
 
 bash
-python app.py
+python alunos_crud.py
 
 
 ### 3. Acessar a API
