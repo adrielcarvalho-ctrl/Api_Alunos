@@ -70,7 +70,7 @@ Body → raw → JSON:
   json
 {
   "nome": "Adriel",
-  "curso": "ADS",
+  "curso": "TADS",
   "idade": 22
 }
 
